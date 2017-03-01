@@ -1,4 +1,6 @@
-﻿//using System;
+﻿//// Borrowed from http://www.peterprovost.org/blog/2012/04/15/visual-studio-11-fakes-part-1/
+
+//using System;
 //using Microsoft.VisualStudio.TestTools.UnitTesting;
 //using Launch2017;
 //using Launch2017.Fakes;
