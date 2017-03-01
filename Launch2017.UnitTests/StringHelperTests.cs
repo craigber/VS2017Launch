@@ -2,7 +2,7 @@ using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Launch2017;
 
-namespace Launch2017.Tests
+namespace Launch2017.UnitTests
 {
     [TestClass]
     public class StringHelperTests

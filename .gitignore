@@ -5,3 +5,5 @@
 /packages
 /TestResults
 /.vs
+/Launch2017.UnitTests/bin
+/Launch2017.UnitTests/obj

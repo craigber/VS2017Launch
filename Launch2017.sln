@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launch2017", "Launch2017\Launch2017.csproj", "{9A45B534-AC3F-47A3-9B2A-62FB67C1F2DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launch2017.Tests", "Launch2017.Tests\Launch2017.Tests.csproj", "{819C27ED-1033-4987-9757-97BB3CB5A126}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launch2017.UnitTests", "Launch2017.Tests\Launch2017.UnitTests.csproj", "{819C27ED-1033-4987-9757-97BB3CB5A126}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
