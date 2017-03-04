@@ -7,3 +7,5 @@
 /.vs
 /Launch2017.UnitTests/bin
 /Launch2017.UnitTests/obj
+/Launch2017.UnitTests/Fakes
+/Launch2017.UnitTests/FakesAssemblies
