@@ -3,7 +3,6 @@
 //using System;
 //using Microsoft.VisualStudio.TestTools.UnitTesting;
 //using Launch2017;
-//using Launch2017.Fakes;
 
 //namespace Launch2017.UnitTests
 //{
